@@ -1,0 +1,62 @@
+---
+title: "Jeremy R. Groves, Ph.D., ACUE"
+subtitle: |
+  Associate Professor \
+  Department of Economics Chair \
+  Northern Illinois University\
+  E-mail: jgroves@niu.edu
+#description-meta:
+image: "images/Groves_Headshot.png" 
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+#     - icon: github
+#       text: Github
+#       href: https://github.com/jrgroves
+#    - icon: twitter
+#      text: Twitter
+#      href: https://twitter.com/DrGangHe
+#    - icon: mastodon
+#      text: Mastodon
+#      href: https://mastodon.social/@hegang      
+#    - icon: linkedin
+#      text: LinkedIn
+#      href: https://www.linkedin.com/in/jeremy-groves-834a4529/
+#      target: _blank
+#    - icon: youtube
+#      text: YouTube
+#      href: https://www.youtube.com/@DrGangHe     
+#      target: _blank 
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0002-2042-4279
+      target: _blank
+#    - text: "{{< ai clarivate >}} Web of Science"
+#      href: https://www.webofscience.com/wos/author/record/N-4549-2013  
+#      target: _blank
+#    - text: "{{< ai scopus >}} Scopus"
+#      href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
+#      target: _blank
+#    - text: "{{< ai semantic-scholar >}} Semantic Scholar"
+#      href: https://www.semanticscholar.org/author/Gang-He/49430802
+#      target: _blank
+#    - text: "![](/files/images/dimensions-logo.jpeg){width=15} Dimensions"  # use customize image or logo
+#      href: https://app.dimensions.ai/details/entities/publication/author/ur.013573776475.50
+#      target: _blank      
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=5Rt8fDgAAAAJ&hl=en
+      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Jeremy-Groves
+      target: _blank
+---
+
+Welcome to my personal site. I am an associate professor of economics at Northern Illinois University and currently serves as the chair of the department after serving as the Director of Graduate Programs for several years. My research interests focus on housing markets and urban policies and my teaching focuses on public economics and taxation theory. 
+
+I joined NIU in 2005 after earning my doctoral degree from Washington University in Saint Louis. During my time I have been invited to present to several different audiance disucssing everything from economics in general, property taxes in Illinois, and the impact of U.S. federal tax policy on the overall economy. 

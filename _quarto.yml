@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Jeremy R. Groves, Ph.D., ACUE"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - classes.qmd
+
+  page-navigation: true
+  
+  page-footer: 
+    left: "Jeremy Groves" 
+      
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+
+editor: visual
+
