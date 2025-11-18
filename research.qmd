@@ -1,14 +1,11 @@
 ---
 title: "Research"
-author: "Jeremy Groves"
 description-meta: "Information about papers"
 page-navigation: false
 toc: false
 #sidebar: false
 page-layout: full
 ---
-
-# Research
 
 “[The Impact of Overweight and Obesity on Unemployment Duration among Young American Workers](https://pubmed.ncbi.nlm.nih.gov/37542787/)” (with V. Wilcox), Economics and Human Biology, (2023) 
 
