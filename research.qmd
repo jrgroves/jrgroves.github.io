@@ -1,0 +1,26 @@
+---
+title: "Research"
+description-meta: "Information about papers"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+---
+
+“[The Impact of Overweight and Obesity on Unemployment Duration among Young American Workers](https://pubmed.ncbi.nlm.nih.gov/37542787/)” (with V. Wilcox), Economics and Human Biology, (2023) 
+
+“[Superfund Cleanup Time and Community Characteristics: A Survival Analysis](https://doi.org/10.1016/j.jenvman.2022.115705)” (with A. Klis and L. Solatyavari), Journal of Environmental Management, 320 (2022)
+
+“[Impact of Controlled Choice Assignment on Home Values](https://le.uwpress.org/content/95/1/35)” (with T. Batson), Land Economics, 95 (1), 35-53 (2018)
+
+“[Responsiveness of Residential Capital Investment to Property Tax Differentials](https://www.lincolninst.edu/app/uploads/legacy-files/1890_1205_Groves_WP11JG1%2520Final.pdf)”, Lincoln Institute of Land Policy - Working Paper (February 2011)
+
+“[Effectiveness of RCA Institutions to Limit Local Externalities: Using Foreclosure data to Test Covenant Effectiveness](https://le.uwpress.org/content/87/4/559)” (w/ W. H. Rogers) Land Economics, 87(4), 559-581 (2011)
+
+“[Impact of Positive Property Tax Differentials on the Timing of Development](https://doi.org/10.1016/j.regsciurbeco.2009.07.004)” Regional Science and Urban Economics, 39(6), 739-748. (2010)
+
+“[Finding the Missing Premium: An explanation of home values within residential community associations](https://le.uwpress.org/content/84/2/188)” Land Economics, 84(2), 188-208 (2008)
+
+“[All Together Now? An Empirical Study of Voting Behaviors of Homeowner Associations Members in St. Louis County](https://doi.org/10.1111/j.1541-1338.2006.00252.x)” Review of Policy Research, 23(6), 1199-1218 (2006)
+
+“[Zoning and the Distribution of Locational Rents: An Empirical Analysis of Harris County, Texas](https://le.uwpress.org/content/78/1/28)” with Dr. Eric Helland, Land Economics, 78(1), 28-44 (2002)

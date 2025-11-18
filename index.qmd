@@ -40,7 +40,7 @@ about:
 #    - text: "{{< ai clarivate >}} Web of Science"
 #      href: https://www.webofscience.com/wos/author/record/N-4549-2013  
 #      target: _blank
-#    - text: "{{< ai scopus >}} Scopus"
+#    - text: "{{< fa scopus >}} Scopus"
 #      href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
 #      target: _blank
 #    - text: "{{< ai semantic-scholar >}} Semantic Scholar"
