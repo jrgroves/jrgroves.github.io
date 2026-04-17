@@ -1,0 +1,149 @@
+---
+title: "Jeremy R. Groves, Ph.D., ACUE"
+description-meta: "Information about papers"
+page-layout: full
+---
+
+## Education {style="color: #104B7A;"} 
+
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+- Ph.D. in Economics | Washington University in Saint Louis | May, 2005
+- M.A. in Economics | Washington University in Saint Louis | May, 2000
+- B.S. (Cum Laude) with Honors in Economics | Ball State University, May 1998
+  - Minors in Mathematics and Urban Planning and Development
+:::
+
+## Professional Experience {style="color: #104B7A;"}
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+- Associate Professor of Economics | Northern Illinois University | 2011 - Present
+  - Department Chair | Department of Economics | 2024 - Present
+  - Director of Graduate Studies | Department of Economics | 2012 - 2024
+- Assistant Professor of Economics | Northern Illinois University | 2005 - 2011
+- Research Assistant | Weidenbaum Center on the Economy | 2004 - 2005
+- Instructor | Washington University in Saint Louis | 2000 - 2003
+- Instructor | Saint Louis Community College | 2000 - 2004
+- Instructor | University of Missouri at Saint Louis | Summer 2004
+:::
+
+## Research {style="color: #104B7A;"}
+
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+
+### Published
+
+- “[The Impact of Overweight and Obesity on Unemployment Duration among Young American Workers](https://pubmed.ncbi.nlm.nih.gov/37542787/)” (with V. Wilcox), Economics and Human Biology, (2023)
+- “[Superfund Cleanup Time and Community Characteristics: A Survival Analysis](https://doi.org/10.1016/j.jenvman.2022.115705)” (with A. Klis and L. Solatyavari), Journal of Environmental Management, 320 (2022)
+- “[Impact of Controlled Choice Assignment on Home Values](https://le.uwpress.org/content/95/1/35)” (with T. Batson), Land Economics, 95 (1), 35-53 (2018)
+- “[Responsiveness of Residential Capital Investment to Property Tax Differentials](https://www.lincolninst.edu/app/uploads/legacy-files/1890_1205_Groves_WP11JG1%2520Final.pdf)”, Lincoln Institute of Land Policy - Working Paper (February 2011)
+- “[Effectiveness of RCA Institutions to Limit Local Externalities: Using Foreclosure data to Test Covenant Effectiveness](https://le.uwpress.org/content/87/4/559)” (w/ W. H. Rogers) Land Economics, 87(4), 559-581 (2011)
+- “[Impact of Positive Property Tax Differentials on the Timing of Development](https://doi.org/10.1016/j.regsciurbeco.2009.07.004)” Regional Science and Urban Economics, 39(6), 739-748. (2010)
+- “[Finding the Missing Premium: An explanation of home values within residential community associations](https://le.uwpress.org/content/84/2/188)” Land Economics, 84(2), 188-208 (2008)
+- “[All Together Now? An Empirical Study of Voting Behaviors of Homeowner Associations Members in St. Louis County](https://doi.org/10.1111/j.1541-1338.2006.00252.x)” Review of Policy Research, 23(6), 1199-1218 (2006)
+- “[Zoning and the Distribution of Locational Rents: An Empirical Analysis of Harris County, Texas](https://le.uwpress.org/content/78/1/28)” with Dr. Eric Helland, Land Economics, 78(1), 28-44 (2002)
+
+### Current Working Papers
+- Corporate Ownership of Single Family Homes and Surrounding Home Values
+- Crime and Corporate Ownership of Single Family Homes (with Muritala Ogunsiji)
+
+### Reserach in Status
+- Typology of Food Hubs (with Emily McKee)
+- Property Tax Rebates and RCAs
+:::
+
+## Conference and Invited Participation {style="color: #104B7A;"}
+
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+
+### Midwest Economic Association
+- 2026, 2024, 2006
+
+### Illinois Economics Association
+- 2024, 2023, 2018
+
+### Regional Science Association International
+- 2010, 2008, 2007, 2003
+
+### Nothern Illinois University
+- 2018, 2007
+
+### Other Conferences
+- Lincoln Fellowship Symposium | Cambridge, MA | 2010
+- DeVoe More Center's Critical Issues Symposium | Florida State University | 2006
+- Association for Public Economics | Durham, NC | 2003
+- Missouri Economics Conference | Columbia, MO | 2003
+
+### Invited Presentations
+- "Tariffs, Taxes, and Ticking Time Bombs" | Lee County Democrats | July, 2025
+- "What's in the Tax Bill" | League of Women Voters | December, 2017
+- "Property Taxes and Tax Freezes" | New Lenox, IL | May, 2017
+- "School Choice and Residential Property Values" | NIU Department of Geography | April, 2016
+- "Foreclosures and their Neighborhood Impact" | NIU College of Business | April, 2009
+- "Effectiveness of RCA Institutions to Limit Local Externalities" | Loyola University | March, 2010
+:::
+
+## Fellowships, Grants, and Awards {style="color: #104B7A;"}
+
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+
+- ACUE Distinguished Teaching Scholar | 2022 - 2023
+- Research and Artistry Grant (w/ Emily McKee) | 2020
+- Course Transformation Fellowship | 2013
+- Lincoln Institute of Land Policy | 2010 | $30,000 awarded
+- Dissertation Fellowship (Washington University in Saint Louis) | 2003 - 2004
+- Honors in Writing (Ball State University) | 1998
+- Undergraduate Research Grant (Ball State University) | 1997 - 1998
+:::
+
+## Service and Memberships {style="color: #104B7A;"}
+
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+
+### Professional Service
+- Illinois Economics Association
+  - Board Member | 2023 - Present
+  - President | 2022
+  - President-Elect | 2020 - 2022
+
+### Referee Service
+  *Land Economics*, *Land Use Policy*, *Journal of Economics Education*, *Economics and Human Biology*, *Journal of Urban Economics*, *National Tax Journal*
+  
+### College and University
+- Bachelorette Committee | Fall 2025 - Present
+- College Senate (CLAS) | Fall 2024 - Present
+- Open Classrooms Participant | Fall 2024
+- Graduate Council (NIU)
+  - Faculty Chair | Spring 2023
+  - Member | Fall 2019 - Spring 2022
+- School of Public and Global Affairs
+  - Directorate | 2014 - Present
+- NNGO Committee of the Whole | Fall 2014 - Spring 2018
+- Course Transformation Project | Fellow | 2013 - 2015
+- Interdisciplinary Ph.D. in Public Affairs Proposal Committee | Chair | 2012 - 2020
+- Cole Hall Redesign Committee | Summer 2010
+
+### Department Service
+- Scheduling Committee
+  - Chair | 2024 - Present
+  - Member | 2012 - 2024
+- Graduate Committee | Chair | 2012 - 2024
+- Seminar Committee | Coordinator | 2012 - 2024
+- Executive Committee | 2014 - 2015, 2023 - 2024
+- Undergraduate Committee | Member | 2006 - 2012
+- Placement Committee | 2008 - 2013
+- Job Search Committee | Public Finance | 2005 - 2007, 2014 - 2015
+
+:::
+
+## Courses Taught {style="color: #104B7A;"}
+
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+
+- Principles of Microeconomics (Online, Large Lecture, Standard)
+- Intermediate Microeconomics 
+- Introduction to Public Sector Economics (Online)
+- Public Sector Economics (Undergraduate; Online, In-Person)
+- Public Sector Economics II: Taxation (Graduate)
+- Public Revenue Analysis and Financial Management (Graduate)
+- Business Statistics (Undergraduate)
+
+:::
