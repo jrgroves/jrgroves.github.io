@@ -2,7 +2,7 @@
 title: "Jeremy R. Groves, Ph.D., ACUE"
 about:
   template: trestles
-  image: "resources/profile.png"
+  image: "_resources/profile.png"
   links:
     - icon: github
       text: GitHub
